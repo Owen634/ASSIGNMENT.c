@@ -1,4 +1,4 @@
-//program to prompt the structure of a book
+//program to prompt the marks and names of students
 /*
 Author:Murithi Owen Muthomi
 Reg no:CT101/G/23216/24
